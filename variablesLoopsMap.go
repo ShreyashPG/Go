@@ -13,7 +13,13 @@ func main(){
 		fmt.Println(i);
 	}
 
+
+	//slice of int
 	a1 := []int {10, 20 , 20 , 40};
+
+	//slice of string
+	a4 := []string {"James", "Bond", "Miss"};
+	fmt.Println(a4);
 
 	fmt.Println(a1);
 
