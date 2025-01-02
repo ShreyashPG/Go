@@ -38,8 +38,8 @@ func main (){
 		//create a copy of string
 		var t2=c[:];
 		fmt.Println(c[0:2]);
-		fmt.Println(t2[1]);
-		
+		fmt.Printf(string(t2[1]));
+
 
 
 
